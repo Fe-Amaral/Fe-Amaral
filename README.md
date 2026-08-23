@@ -36,9 +36,9 @@ Microsoft Defender for Endpoint • Microsoft Defender for Identity • Microsof
 
 AWS Security • Microsoft Azure
 
-**Endpoint & Detection**
+**Detection & Telemetry**
 
-Sysmon • CrowdStrike Falcon
+Sysmon • Sigma • CrowdStrike Falcon
 
 **Frameworks & Metodologias**
 
@@ -79,7 +79,7 @@ Harvard University | 2025 - 2026
 
 ---
 
-## 📚 Certificações e desenvolvimento profissional
+## 📚 Certificações, credenciais e formação complementar
 
 ### Security Operations & Incident Response
 
