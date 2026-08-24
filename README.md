@@ -81,29 +81,23 @@ Harvard University | 2025 - 2026
 
 ## 📚 Certificações, credenciais e formação complementar
 
-### Security Operations & Incident Response
+### Certificações principais
 
 - **Analista SOC** — IBSEC
+- **ECIH v2 (Certified Incident Handler) - Course Completion** — EC-Council
+- **CND v2 (Certified Network Defender) - Course Completion** — EC-Council
 - **Incident Response - Part 1** — RSquad Academy
 - **Incident Response - Part 2** — RSquad Academy
-- **ECIH v2 - Course Completion** — EC-Council
-- **CND v2 - Course Completion** — EC-Council
-- **Ethical Hacking Essentials** — EC-Council
-
-### Cloud & Infrastructure Security
-
-- **AWS Security (GHAWS)** — GoHacking
 - **FCP - AWS Cloud Security 7.4 Administrator (Self-Paced)** — Fortinet
 - **ISO/IEC 27001 - Sistema de Gestão de Segurança da Informação** — SkillFront
 
-### Security Platforms & Technologies
+### Formação complementar e cursos introdutórios
 
+- **Ethical Hacking Essentials** — EC-Council
+- **AWS Security (GHAWS)** — GoHacking
 - **TrendAI Vision One™ Platform Foundation** — Trend Micro
 - **CPOP - Certified Professional Operational Partner** — Axur
 - **CPSP - Certified Professional Sales Partner** — Axur
-
-### Formação complementar
-
 - **FEMA/EMI IS-00915 - Protecting Critical Infrastructure Against Insider Threats** — FEMA
 - **Bootcamp Analista de Cybersecurity** — IGTI
 
